@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e1cc1cc1b95a70c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f920b12f771cef",
+        "type": "tabs",
+        "dimension": 99.99999999999999,
+        "children": [
+          {
+            "id": "81a29d7e19cb6a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/2405 Widget/위젯 기본 기능 학습.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a267c9e58551894",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Project/2405 Widget/Widget Canvas.canvas",
+                "viewState": {
+                  "x": -26.969999999999885,
+                  "y": -40.92000000000029,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f35c2fbc1d6cba9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b292d4f1af337574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0c887a2d143c3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "574c9d4dabb3ea64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cbbc48ad4d5d9a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "9dbf329cfb7000af",
+    "type": "split",
+    "children": [
+      {
+        "id": "61b1c9437d563372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06de15d26ac7a2b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Project/2405 Widget/Widget Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b599fa3945af557f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Project/2405 Widget/Widget Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1ee7529c61b0c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "db82c90b809f3240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Project/2405 Widget/Widget Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a267c9e58551894",
+  "lastOpenFiles": [
+    "1. Project/2405 Widget/Untitled.md",
+    "1. Project/2405 Widget/Widget Canvas.canvas",
+    "2024-05-10.md",
+    "Untitled.md",
+    "1. Project/2405 Widget/위젯 기본 기능 학습.md",
+    "1. Project/2405 Widget/Untitled",
+    "1. Project/2405 Widget",
+    "4. Archive",
+    "3. Resource",
+    "2. Area",
+    "1. Project"
+  ]
+}
