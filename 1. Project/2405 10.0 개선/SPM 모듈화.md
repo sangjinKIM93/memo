@@ -35,4 +35,5 @@
 
 * 스토리보드로 관리되고 있는 Color 이슈
 
-
+* Main Project를 킨 상태에서 Test Project를 키면 모듈 import 안 된다.
+	* 끄고 다시 켜야해 ㅋㅋㅋ
