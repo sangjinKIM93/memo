@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"8457411db08e518b","type":"file","file":"1. Project/2405 10.0 개선/SPM 모듈화.md","x":-240,"y":-1600,"width":540,"height":1360},
+		{"id":"82353ffc2f9e3c60","type":"file","file":"1. Project/2405 10.0 개선/웹뷰 모듈화와 Swinject.md","x":320,"y":-1600,"width":560,"height":1360},
+		{"id":"fa3e69ff989cfe96","type":"text","text":"DeviceManager","x":-1030,"y":-890,"width":170,"height":60},
+		{"id":"fd92d83337241a47","type":"text","text":"Common","x":-1015,"y":-1023,"width":135,"height":66},
+		{"id":"b243351c1e906de0","type":"text","text":"WebviewHelper","x":-1240,"y":-890,"width":170,"height":60},
+		{"id":"c338b5c0ba2a8f47","type":"text","text":"Rseources","x":-600,"y":-1020,"width":140,"height":66},
+		{"id":"17bc2edd778475f3","type":"text","text":"AppData","x":-590,"y":-920,"width":120,"height":60},
+		{"id":"fdb2efc688d6f24f","type":"text","text":"Extension","x":-800,"y":-1020,"width":140,"height":66}
+	],
+	"edges":[
+		{"id":"7ad7aeb69097b7d2","fromNode":"c338b5c0ba2a8f47","fromSide":"bottom","toNode":"17bc2edd778475f3","toSide":"top"},
+		{"id":"c8938f9a7c165573","fromNode":"fd92d83337241a47","fromSide":"bottom","toNode":"fa3e69ff989cfe96","toSide":"top"},
+		{"id":"5630c204d1550207","fromNode":"fd92d83337241a47","fromSide":"bottom","toNode":"b243351c1e906de0","toSide":"top"},
+		{"id":"0f78d2fed555fdcc","fromNode":"fa3e69ff989cfe96","fromSide":"bottom","toNode":"17bc2edd778475f3","toSide":"bottom"},
+		{"id":"4642b344dd4608b6","fromNode":"fd92d83337241a47","fromSide":"bottom","toNode":"fdb2efc688d6f24f","toSide":"bottom"},
+		{"id":"7e463a0dfc826117","fromNode":"fdb2efc688d6f24f","fromSide":"top","toNode":"c338b5c0ba2a8f47","toSide":"top"}
+	]
+}

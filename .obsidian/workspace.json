@@ -6,7 +6,6 @@
       {
         "id": "30f920b12f771cef",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "81a29d7e19cb6a30",
@@ -53,14 +52,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/2405 10.0 개선/거래 플로우 개선.md",
+                "file": "1. Project/2405 10.0 개선/SPM 모듈화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6359cefc29ee1ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/2405 10.0 개선/SPM 모듈화.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6f1115e3ec5e183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/2405 10.0 개선/거래 플로우 개선.md",
+                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/2405 10.0 개선/거래 플로우 개선.md",
+                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/2405 10.0 개선/거래 플로우 개선.md"
+                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md"
               }
             }
           }
@@ -187,9 +210,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0c887a2d143c3c",
+  "active": "c6f1115e3ec5e183",
   "lastOpenFiles": [
     "1. Project/2405 10.0 개선/SPM 모듈화.md",
+    "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
+    "3. Resource/SwiftUI",
+    "1. Project/2405 10.0 개선/웹뷰 모듈화와 Swinject.md",
+    "1. Project/2405 10.0 개선/Module Graph.canvas",
+    "1. Project/2405 10.0 개선/네트워크 분리.md",
     "1. Project/2405 10.0 개선/거래 플로우 개선.md",
     "1. Project/2405 10.0 개선/10.0 캔버스.canvas",
     "1. Project/2405 Widget/Widget Canvas.canvas",
