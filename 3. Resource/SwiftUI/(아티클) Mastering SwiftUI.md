@@ -64,7 +64,7 @@ Text(String($0))
 * Equatable을 채택하면 이걸로 비교 가능
 
 
-# [ 새 줄 요약]
+# [ 세 줄 요약]
 
 1. 비교를 최소화 하자
 	* ObservableObject대신 @Observable 사용
