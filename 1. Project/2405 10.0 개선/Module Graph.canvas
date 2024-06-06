@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8457411db08e518b","type":"file","file":"1. Project/2405 10.0 개선/SPM 모듈화.md","x":-240,"y":-1600,"width":540,"height":1360},
-		{"id":"82353ffc2f9e3c60","type":"file","file":"1. Project/2405 10.0 개선/웹뷰 모듈화와 Swinject.md","x":320,"y":-1600,"width":560,"height":1360},
+		{"id":"82353ffc2f9e3c60","type":"file","file":"1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md","x":320,"y":-1600,"width":560,"height":1360},
 		{"id":"fa3e69ff989cfe96","type":"text","text":"DeviceManager","x":-1030,"y":-890,"width":170,"height":60},
 		{"id":"fd92d83337241a47","type":"text","text":"Common","x":-1015,"y":-1023,"width":135,"height":66},
 		{"id":"b243351c1e906de0","type":"text","text":"WebviewHelper","x":-1240,"y":-890,"width":170,"height":60},

@@ -74,6 +74,21 @@
             "id": "c6f1115e3ec5e183",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Project/2405 10.0 개선/Module Graph.canvas",
+                "viewState": {
+                  "x": 839.3362925599,
+                  "y": -998.950315258512,
+                  "zoom": -0.9157174041836583
+                }
+              }
+            }
+          },
+          {
+            "id": "474a89036f92606d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -210,15 +225,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f1115e3ec5e183",
+  "active": "474a89036f92606d",
   "lastOpenFiles": [
+    "1. Project/2405 10.0 개선/거래 플로우 개선.md",
+    "1. Project/2405 10.0 개선/Swinject.md",
+    "1. Project/2405 10.0 개선/Module Graph.canvas",
+    "1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md",
     "1. Project/2405 10.0 개선/SPM 모듈화.md",
     "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
     "3. Resource/SwiftUI",
-    "1. Project/2405 10.0 개선/웹뷰 모듈화와 Swinject.md",
-    "1. Project/2405 10.0 개선/Module Graph.canvas",
     "1. Project/2405 10.0 개선/네트워크 분리.md",
-    "1. Project/2405 10.0 개선/거래 플로우 개선.md",
     "1. Project/2405 10.0 개선/10.0 캔버스.canvas",
     "1. Project/2405 Widget/Widget Canvas.canvas",
     "1. Project/2405 10.0 개선",
