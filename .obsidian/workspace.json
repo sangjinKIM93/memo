@@ -20,85 +20,19 @@
             }
           },
           {
-            "id": "9a267c9e58551894",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Project/2405 Widget/Widget Canvas.canvas",
-                "viewState": {
-                  "x": -26.969999999999885,
-                  "y": -40.92000000000029,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "1f8b35e47d4950a9",
+            "id": "e459adade8290847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/2405 10.0 개선/거래 플로우 개선.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e632f65424de8b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/2405 10.0 개선/SPM 모듈화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6359cefc29ee1ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/2405 10.0 개선/SPM 모듈화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f1115e3ec5e183",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Project/2405 10.0 개선/Module Graph.canvas",
-                "viewState": {
-                  "x": 839.3362925599,
-                  "y": -998.950315258512,
-                  "zoom": -0.9157174041836583
-                }
-              }
-            }
-          },
-          {
-            "id": "474a89036f92606d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
+                "file": "1. Project/Blog/AnyView.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
+                "file": "1. Project/Blog/AnyView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
+                "file": "1. Project/Blog/AnyView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md"
+                "file": "1. Project/Blog/AnyView.md"
               }
             }
           }
@@ -225,22 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "474a89036f92606d",
+  "active": "db0c887a2d143c3c",
   "lastOpenFiles": [
+    "1. Project/Blog",
+    "1. Project/2405 Widget/위젯 기본 기능 학습.md",
+    "1. Project/Blog/AnyView.md",
+    "1. Project/2405 Widget/Widget Canvas.canvas",
+    "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
     "1. Project/2405 10.0 개선/거래 플로우 개선.md",
     "1. Project/2405 10.0 개선/Swinject.md",
     "1. Project/2405 10.0 개선/Module Graph.canvas",
     "1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md",
     "1. Project/2405 10.0 개선/SPM 모듈화.md",
-    "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
     "3. Resource/SwiftUI",
     "1. Project/2405 10.0 개선/네트워크 분리.md",
     "1. Project/2405 10.0 개선/10.0 캔버스.canvas",
-    "1. Project/2405 Widget/Widget Canvas.canvas",
     "1. Project/2405 10.0 개선",
     "1. Project/2405 Widget/Untitled.md",
     "2024-05-10.md",
-    "1. Project/2405 Widget/위젯 기본 기능 학습.md",
     "1. Project/2405 Widget/Untitled",
     "1. Project/2405 Widget",
     "4. Archive",
