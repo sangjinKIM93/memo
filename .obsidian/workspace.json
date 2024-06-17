@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Blog/AnyView.md",
+                "file": "1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "193f760c9c747554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Blog/뷰 업데이트 순서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Blog/AnyView.md",
+                "file": "1. Project/Blog/뷰 업데이트 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Blog/AnyView.md",
+                "file": "1. Project/Blog/뷰 업데이트 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Blog/AnyView.md"
+                "file": "1. Project/Blog/뷰 업데이트 순서.md"
               }
             }
           }
@@ -159,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0c887a2d143c3c",
+  "active": "193f760c9c747554",
   "lastOpenFiles": [
+    "1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md",
+    "1. Project/Blog/뷰 업데이트 순서.md",
+    "1. Project/Blog/AnyView.md",
     "1. Project/Blog",
     "1. Project/2405 Widget/위젯 기본 기능 학습.md",
-    "1. Project/Blog/AnyView.md",
     "1. Project/2405 Widget/Widget Canvas.canvas",
     "3. Resource/SwiftUI/(아티클) Mastering SwiftUI.md",
     "1. Project/2405 10.0 개선/거래 플로우 개선.md",
     "1. Project/2405 10.0 개선/Swinject.md",
     "1. Project/2405 10.0 개선/Module Graph.canvas",
-    "1. Project/2405 10.0 개선/웹뷰 모듈화 삽질....md",
     "1. Project/2405 10.0 개선/SPM 모듈화.md",
     "3. Resource/SwiftUI",
     "1. Project/2405 10.0 개선/네트워크 분리.md",
